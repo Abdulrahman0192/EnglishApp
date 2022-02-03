@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">EnglishApp</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_your_account_now">Create your account now</string>
+    <string name="don_t_have_am_account">Don\'t have am account?</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="already_have_a_account">Already have a account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="t1">Hi</string>
+    <string name="t2">Abdulrahman</string>
+    <string name="t3">Please sign in to continue</string>
+    <string name="t4">Reading</string>
+    <string name="start">Start</string>
+    <string name="listening">Listening</string>
 </resources>
