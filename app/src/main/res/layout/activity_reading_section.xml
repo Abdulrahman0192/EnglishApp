@@ -105,6 +105,7 @@
 
 
         <Button
+            android:id="@+id/reading_level2"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
@@ -170,6 +171,7 @@
 
 
         <Button
+            android:id="@+id/reading_level1"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
@@ -236,6 +238,7 @@
 
 
         <Button
+            android:id="@+id/reading_level3"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
@@ -301,6 +304,7 @@
 
 
         <Button
+            android:id="@+id/reading_level4"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
@@ -366,6 +370,7 @@
 
 
         <Button
+            android:id="@+id/reading_level5"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
@@ -431,6 +436,7 @@
 
 
         <Button
+            android:id="@+id/reading_level6"
             android:layout_width="105dp"
             android:layout_height="29dp"
             android:layout_gravity="center"
